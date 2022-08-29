@@ -6,3 +6,7 @@
 
 https://gist.github.com/pocojang/3c3d4470a3d2a978b5ebfb3f613e40fa
 
+
+```
+npm run doc
+```
